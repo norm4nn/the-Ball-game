@@ -28,6 +28,6 @@ you 'catch' it by platform.
 So far I implemented 3 power-ups ('3x number of balls', 'length (platform) up', 'add 1 ammon') and 
 1 power-down ('length (platform) down').
 Effects of these drops are pretty well described by their names, but if you want to experience it on your own 
-just download this repository and to run it type 'python main.py' in terminal.
+just download this repository and to run it type 'python main.py' in terminal (also make sure you have installed pygame module).
 
 Feel free to report directly to me any bugs you encounter. :3  
