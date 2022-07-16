@@ -14,9 +14,12 @@ which can be done by pressing 'SPACE' (This feature was inspired by 'Space Invad
 Color of the brick is NOT a random thing. Every color is assigned to a number of hit points which are required to 
 finally break the brick:
 
-GREEN -- 1 hit point\n
+GREEN -- 1 hit point
+
 BLUE -- 2 hit points
+
 ORANGE -- 3 hit points
+
 PURPLE -- +4 hit points
 
 When brick breaks there is a chance for it to drop power-up / power-down. Effect of the drop is applied to game if 
