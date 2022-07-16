@@ -30,4 +30,4 @@ So far I implemented 3 power-ups ('3x number of balls', 'length (platform) up', 
 Effects of these drops are pretty well described by their names, but if you want to experience it on your own 
 just download this repository and to run it type 'python main.py' in terminal (also make sure you have installed pygame module).
 
-Feel free to report directly to me any bugs you encounter. :3  
+Feel free to report directly to me any bugs you encounter (email in Bio). :3  
