@@ -2,7 +2,7 @@
 Its my first completed game, with fully object oriented code.
 
 The purpose of developing this project was to test and train my skills in object oriented programming
-and expand my knowledge of pygame library.
+and expand my knowledge of pygame module.
 
 ### ABOUT THE GAME ### 
 The game was heavily inspired by popular type of 'Brick Breaker' games. Winning condition
