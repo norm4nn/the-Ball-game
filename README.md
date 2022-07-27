@@ -31,3 +31,12 @@ Effects of these drops are pretty well described by their names, but if you want
 just download this repository and to run it type 'python main.py' in terminal (also make sure you have installed pygame module).
 
 Feel free to report directly to me any bugs you encounter (email in Bio). :3  
+
+## Screens from game ##
+<p float="left">
+  <img src="images/img1.png" width="400" />
+  <img src="images/img2.png" width="400" /> 
+  <img src="images/img3.png" width="400" />
+  <img src="images/img4.png" width="400" />
+  <img src="images/img5.png" width="400" />
+</p>
